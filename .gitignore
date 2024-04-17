@@ -1,0 +1,8 @@
+yolov*
+runs
+*.docx
+.venv
+.mypy_cache
+*.csv
+__pycache__
+.vscode
