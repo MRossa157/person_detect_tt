@@ -5,6 +5,7 @@
 
 # Как запустить?:
 - Установите зависимости: ```pip install -r requirements.txt```
-- Создайте папки input_videos и output_videos и положите нужный для обработки файл в input_videos
+- Создайте папки input_videos и output_videos и поместите нужный для обработки файл в input_videos
 - В main.py выставите значение переменной `input_video_path` до вашего файла в папке input_videos
-- Запустите код. Результат будет в **output_videos/result.avi**
+- Запустите код: ```python3 main.py```
+  - Результат будет находится в папке **output_videos**
